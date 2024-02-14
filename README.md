@@ -1,6 +1,6 @@
   Ecole de formation : OpenClassRooms 
 
-PROJET 4 - “ ANTICIPEZ LES BESOINS EN CONSOMMATION DE BÂTIMENTS ”    
+PROJET 4 : “ ANTICIPEZ LES BESOINS EN CONSOMMATION DE BÂTIMENTS ”    
 
 
 Problématique :
