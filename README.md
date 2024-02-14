@@ -1,16 +1,17 @@
-  PROJET 4 - “ Anticipez les besoin 
-       en consommation de bâtiments”    
+  Ecole de formation : OpenClassRooms 
+
+PROJET 4 - “ ANTICIPEZ LES BESOINS EN CONSOMMATION DE BÂTIMENTS ”    
 
 
-Problématique 
+Problématique :
 
-Préparation du jeu de données 
+- Préparation du jeu de données 
 
-Pistes de modélisations 
+- Pistes de modélisations 
 
-Présentation du modèle final 
+- Présentation du modèle final 
 
 
 Soutenance de projet Juillet 2023
 
-Centre de formation : OpenClassrooms 
+
